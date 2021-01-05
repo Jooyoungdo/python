@@ -1,0 +1,4 @@
+# do not commit large file
+*.csv
+
+*.zip
